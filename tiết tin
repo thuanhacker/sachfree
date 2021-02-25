@@ -1,0 +1,12 @@
+tin                           bài thực hành số 5 sự dụng lệnh FOR...DO
+tuần 22
+tiết  43+44
+1/mức đích yêu cầu
+ -SGK
+ uses crt;
+ var n,i: integer;
+ begin  
+  clrscr;
+  write('nhap n='); read(n);
+  for i:=1 to 1- do
+  
